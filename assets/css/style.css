@@ -68,7 +68,7 @@ body::before {
     background-color: #444;
 }
 
-.input-box {
+.input_box {
     margin-bottom: 25px;
 }
 
@@ -118,7 +118,7 @@ body::before {
 }
 
 .help a:hover{
-    text-decoration: underlone;
+    text-decoration: underline;
 }
 
 .login_facebook {
